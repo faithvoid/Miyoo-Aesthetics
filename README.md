@@ -2,6 +2,7 @@
 Various aesthetic modifications (charging screens, boot screens, themes, etc.) for the Miyoo Mini / Mini+.
 
 ## Charging Animations
+### Anime
 ![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Serial%20Experiments%20Lain/screenshots/original.webp)
 
 [Serial Experiments Lain](https://github.com/faithvoid/Miyoo-Aesthetics/tree/main/Serial%20Experiments%20Lain)
@@ -22,7 +23,13 @@ Various aesthetic modifications (charging screens, boot screens, themes, etc.) f
 
 ![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Sailor%20Moon%20(Charging%20Animation)/screenshots/original.gif)
 
-[Urusei Yatsura](https://github.com/faithvoid/Miyoo-Aesthetics/tree/main/Sailor%20Moon%20(Charging%20Animation))
+[Sailor Moon](https://github.com/faithvoid/Miyoo-Aesthetics/tree/main/Sailor%20Moon%20(Charging%20Animation))
+
+### Windows
+![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Windows%95%20(Charging%20Animation)/screenshots/original.gif)
+![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Windows%98%20(Charging%20Animation)/screenshots/original.gif)
+![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Windows%ME%20(Charging%20Animation)/screenshots/original.gif)
+![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Windows%2000%20(Charging%20Animation)/screenshots/original.gif)
 
 
 
