@@ -22,7 +22,7 @@ Various aesthetic modifications (charging screens, boot screens, themes, etc.) f
 
 ![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Sailor%20Moon%20(Charging%20Animation)/screenshots/original.gif)
 
-[Urusei Yatsura](https://github.com/faithvoid/Miyoo-Aesthetics/tree/main/Sailor%20Moon)
+[Urusei Yatsura](https://github.com/faithvoid/Miyoo-Aesthetics/tree/main/Sailor%20Moon%20(Charging%20Animation))
 
 
 
