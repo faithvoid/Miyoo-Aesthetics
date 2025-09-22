@@ -3,8 +3,11 @@ Various aesthetic modifications (charging screens, boot screens, themes, etc.) f
 
 ## Charging Animations
 ![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Serial%20Experiments%20Lain/screenshots/original.webp)
+[](https://github.com/faithvoid/Miyoo-Aesthetics/tree/main/Serial%20Experiments%20Lain)
+
 
 ![](FLCL/screenshots/original.gif) 
+[](https://github.com/faithvoid/Miyoo-Aesthetics/tree/main/FLCL)
 
 ![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Serial%20Experiments%20Lain%20(2)/screenshots/original.gif)
 
