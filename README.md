@@ -26,10 +26,10 @@ Various aesthetic modifications (charging screens, boot screens, themes, etc.) f
 [Sailor Moon](https://github.com/faithvoid/Miyoo-Aesthetics/tree/main/Sailor%20Moon%20(Charging%20Animation))
 
 ### Windows
-![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Windows%95%20(Charging%20Animation)/screenshots/original.gif)
-![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Windows%98%20(Charging%20Animation)/screenshots/original.gif)
-![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Windows%ME%20(Charging%20Animation)/screenshots/original.gif)
-![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Windows%2000%20(Charging%20Animation)/screenshots/original.gif)
+![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Windows%2095%20(Charging%20Animation)/screenshots/original.gif)
+![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Windows%2098%20(Charging%20Animation)/screenshots/original.gif)
+![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Windows%20ME%20(Charging%20Animation)/screenshots/original.gif)
+![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Windows%202000%20(Charging%20Animation)/screenshots/original.gif)
 
 
 
