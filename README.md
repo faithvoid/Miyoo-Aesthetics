@@ -2,7 +2,7 @@
 Various aesthetic modifications (charging screens, boot screens, themes, etc.) for the Miyoo Mini / Mini+.
 
 ## Charging Animations
-![](Serial Experiments Lain/screenshots/original.gif)
+![](Serial%20Experiments%20Lain/screenshots/original.gif)
 ![](FLCL/screenshots/original.gif) 
 
 
