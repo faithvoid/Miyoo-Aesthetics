@@ -17,7 +17,7 @@ Various aesthetic modifications (charging screens, boot screens, themes, etc.) f
 
 ![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Urusei%20Yatsura%20(Charging%20Animation)/screenshots/original.webp)
 
-[Urusei Yatsura](https://github.com/faithvoid/Miyoo-Aesthetics/tree/main/Urusei%20Yatsura(Charging%20Animation))
+[Urusei Yatsura](https://github.com/faithvoid/Miyoo-Aesthetics/tree/main/Urusei%20Yatsura%20(Charging%20Animation))
 
 
 ![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Sailor%20Moon%20(Charging%20Animation)/screenshots/original.gif)
