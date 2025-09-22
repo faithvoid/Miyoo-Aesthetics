@@ -30,6 +30,11 @@ Various aesthetic modifications (charging screens, boot screens, themes, etc.) f
 ![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Windows%2098%20(Charging%20Animation)/screenshots/original.gif)
 ![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Windows%20ME%20(Charging%20Animation)/screenshots/original.gif)
 ![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Windows%202000%20(Charging%20Animation)/screenshots/original.gif)
+![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Windows%202000%20Server%20(Charging%20Animation)/screenshots/original.gif)
+![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Windows%20XP%20(Charging%20Animation)/screenshots/original.gif)
+![](https://github.com/faithvoid/Miyoo-Aesthetics/blob/main/Windows%20Vista%20(Charging%20Animation)/screenshots/original.gif)
+
+
 
 
 
